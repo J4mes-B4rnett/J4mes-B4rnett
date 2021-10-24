@@ -1,4 +1,4 @@
-### Hi there 👋, I'm James! I have a passion for game development but I also do some work on web apps using React!
+### Hi there 👋, I'm James! I have a passion for creating game and web apps!
 
  - Main Languages🖥️: C#, Python, Javascript
  
@@ -15,6 +15,8 @@
 ### Contact Me
 
  - [Stack Overflow](https://stackoverflow.com/users/14873974/james-barnett)
+
+ - [Google Play](https://play.google.com/store/apps/details?id=com.DevpenStudios.DaggerCrab)
 
  - [Discord](JamesB#0733)
 
