@@ -16,7 +16,7 @@
 
  - [Stack Overflow](https://stackoverflow.com/users/14873974/james-barnett)
 
- - [Google Play](https://play.google.com/store/apps/details?id=com.DevpenStudios.DaggerCrab)
+ - [Google Play](https://play.google.com/store/apps/dev?id=4979929486351667387)
 
  - [Discord](JamesB#0733)
 
