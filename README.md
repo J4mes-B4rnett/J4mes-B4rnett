@@ -1,1 +1,4 @@
-### Hi there 👋, I'm James! I have a passion for game development but I also do some work on web apps using React![image](https://user-images.githubusercontent.com/54456440/138589742-a981882a-5f70-414e-842c-be591d282ce3.png)
+### Hi there 👋, I'm James! I have a passion for game development but I also do some work on web apps using React!
+ - Main Languages🖥️: C#, Python, Javascript
+ - Main Libraries📚/Engines: Unity, P5JS, React
+ - 
