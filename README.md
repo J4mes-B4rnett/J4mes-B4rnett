@@ -2,7 +2,7 @@
  - Main Languages🖥️: C#, Python, Javascript
  - Main Libraries📚/Engines: Unity, P5JS, React
 
-###📃About me
+### 📃About me
  - Open Source Supporter 👐
  - Student 🏫
  - Gaming Enthusiast 🎮
