@@ -5,12 +5,17 @@
  - Main Libraries📚/Engines: Unity, P5JS, React
 
 ### 📃About me
+
  - Open Source Supporter 👐
  
  - Student 🏫
  
  - Gaming Enthusiast 🎮
 
- - [Stack Overflow](https://stackoverflow.com/users/14873974/james-barnett)
+### Contact me
+
+ - [Check my Stack Overflow](https://stackoverflow.com/users/14873974/james-barnett)
+
+ - Discord Contact: JamesB#0733
 
 ![Check my Github stats!](https://github-readme-stats.vercel.app/api?username=j4mes-b4rnett)
