@@ -14,9 +14,9 @@
 
 ### Contact Me
 
- - [Check my Stack Overflow](https://stackoverflow.com/users/14873974/james-barnett)
+ - [Stack Overflow](https://stackoverflow.com/users/14873974/james-barnett)
 
- - Discord Contact: JamesB#0733
+ - [Discord](JamesB#0733)
 
 ### My Github Stats
 
