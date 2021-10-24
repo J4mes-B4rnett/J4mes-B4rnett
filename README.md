@@ -8,4 +8,4 @@
  - Gaming Enthusiast 🎮
  - [Stack Overflow](https://stackoverflow.com/users/14873974/james-barnett)
 
-([![Check my Github stats!](https://github-readme-stats.vercel.app/api?username=j4mes-b4rnett)])
+![Check my Github stats!](https://github-readme-stats.vercel.app/api?username=j4mes-b4rnett)
