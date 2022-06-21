@@ -2,7 +2,7 @@
 
  - Main Languages: C#, Python, Javascript, C++, SQL-(unfortunately)
  
- - Main Libraries/Engines: Unity, P5, React, Godot
+ - Main Libraries/Engines: Unity, P5, React, Bootstrap, TF
  
  - Favourite IDEs: Atom, VS Code
 
