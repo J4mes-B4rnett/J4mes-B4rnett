@@ -1,7 +1,7 @@
-### Hi, I'm James - I have a passion for creating game and web apps!
+### Hi, I'm James - I have a passion for creating game and web apps
 
  - Main Languages: C#, Python, Javascript, C++, SQL-(unfortunately)
- 
+
  - Main Libraries/Engines: Unity, P5, React, Bootstrap, TF
  
  - Favourite IDEs: Atom, VS Code
